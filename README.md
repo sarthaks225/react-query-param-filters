@@ -101,9 +101,9 @@ To get this project up and running on your local machine:
 3.  **Start the development server:**
 
     ```bash
-    npm start
+    npm run dev
     # or
-    yarn start
+    yarn run dev
     ```
 
     The application should open in your browser, typically at `http://localhost:3000`.
