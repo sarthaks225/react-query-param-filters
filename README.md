@@ -4,6 +4,10 @@ This repository showcases a robust and reusable pattern for managing application
 
 The demo application displays a mock school data report, allowing users to filter by `Class`, `Gender`, and `House`, and navigate through paginated results. All applied filters and pagination states are reflected in the URL.
 
+**Live Demo:** [https://react-query-param-filters.vercel.app/](https://react-query-param-filters.vercel.app/)
+
+**GitHub Repository:** [https://github.com/sarthaks225/react-query-param-filters.git](https://github.com/sarthaks225/react-query-param-filters.git)
+
 ## 🌟 Features
 
 - **URL Synchronization:** All filter selections (multi-select dropdowns) and pagination states (page number, items per page) are automatically synchronized with the URL's query parameters.
@@ -72,8 +76,8 @@ To get this project up and running on your local machine:
 1.  **Clone the repository:**
 
     ```bash
-    git clone <repository-url>
-    cd react-url-driven-filter-pagination-demo
+    git clone https://github.com/sarthaks225/react-query-param-filters.git
+    cd react-query-param-filters
     ```
 
     (Replace `<repository-url>` with the actual URL of your Git repository.)
